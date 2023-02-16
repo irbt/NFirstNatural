@@ -1,0 +1,15 @@
+C:\Mon_Code\NFirstNatural\bin\Debug\net7.0\NFirstNatural.exe
+C:\Mon_Code\NFirstNatural\bin\Debug\net7.0\NFirstNatural.deps.json
+C:\Mon_Code\NFirstNatural\bin\Debug\net7.0\NFirstNatural.runtimeconfig.json
+C:\Mon_Code\NFirstNatural\bin\Debug\net7.0\NFirstNatural.dll
+C:\Mon_Code\NFirstNatural\bin\Debug\net7.0\NFirstNatural.pdb
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.csproj.AssemblyReference.cache
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.AssemblyInfoInputs.cache
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.AssemblyInfo.cs
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.csproj.CoreCompileInputs.cache
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.dll
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\refint\NFirstNatural.dll
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.pdb
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\NFirstNatural.genruntimeconfig.cache
+C:\Mon_Code\NFirstNatural\obj\Debug\net7.0\ref\NFirstNatural.dll
